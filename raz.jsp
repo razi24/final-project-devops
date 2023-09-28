@@ -9,7 +9,7 @@
     
     <%-- JSP scriptlet --%>
     <% 
-        String name = "razi";
+        String name = "razi!!";
         int age = 26;
     %>
     
